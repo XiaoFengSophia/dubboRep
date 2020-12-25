@@ -2,37 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68f918ba-3e2d-4911-86ed-bb34fb986f73" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumers/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumers/bin/src/main/java/com/zxf/controller/BookController.class" beforeDir="false" afterPath="$PROJECT_DIR$/consumers/bin/src/main/java/com/zxf/controller/BookController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumers/target/classes/META-INF/maven/com.zxf/consumers/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/consumers/target/classes/META-INF/maven/com.zxf/consumers/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumers/target/test-classes/com/zxf/ApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/consumers/target/test-classes/com/zxf/ApplicationTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface/bin/src/main/java/com/zxf/service/IBookService.class" beforeDir="false" afterPath="$PROJECT_DIR$/interface/bin/src/main/java/com/zxf/service/IBookService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/common.iml" beforeDir="false" afterPath="$PROJECT_DIR$/common/common.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumers/consumers.iml" beforeDir="false" afterPath="$PROJECT_DIR$/consumers/consumers.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumers/src/main/java/com/zxf/controller/EhcacheController.java" beforeDir="false" afterPath="$PROJECT_DIR$/consumers/src/main/java/com/zxf/controller/EhcacheController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumers/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumers/target/classes/META-INF/maven/com.zxf/consumers/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumers/target/classes/META-INF/maven/com.zxf/consumers/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumers/target/classes/com/zxf/controller/EhcacheController.class" beforeDir="false" afterPath="$PROJECT_DIR$/consumers/target/classes/com/zxf/controller/EhcacheController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dao/dao.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dao/dao.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dao/src/main/java/com/zxf/idao/Impl/EhcacheDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/dao/src/main/java/com/zxf/idao/Impl/EhcacheDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dao/target/classes/com/zxf/idao/Impl/EhcacheDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/dao/target/classes/com/zxf/idao/Impl/EhcacheDaoImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubboExample.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubboExample.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/entities.iml" beforeDir="false" afterPath="$PROJECT_DIR$/entities/entities.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/interface.iml" beforeDir="false" afterPath="$PROJECT_DIR$/interface/interface.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/target/classes/META-INF/maven/com.zxf/interface/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/target/classes/META-INF/maven/com.zxf/interface/pom.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/providers/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/providers/bin/src/main/java/com/zxf/ProviderApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/providers/bin/src/main/java/com/zxf/ProviderApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/providers/bin/src/main/java/com/zxf/serviceImpl/BookServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/providers/bin/src/main/java/com/zxf/serviceImpl/BookServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/providers/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/providers/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/providers/providers.iml" beforeDir="false" afterPath="$PROJECT_DIR$/providers/providers.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/providers/src/main/java/com/zxf/ProviderApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/providers/src/main/java/com/zxf/ProviderApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/providers/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/providers/src/main/resources/logback-spring.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/providers/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/providers/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/providers/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/providers/target/classes/META-INF/maven/com.zxf/providers/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/providers/target/classes/META-INF/maven/com.zxf/providers/pom.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/providers/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/providers/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/providers/target/classes/com/zxf/ProviderApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/providers/target/classes/com/zxf/ProviderApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/providers/target/classes/logback-spring.xml" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
   </component>
   <component name="CoverageViewManager">
     <option name="myElementSize" value="15" />
@@ -78,12 +80,12 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/common/pom.xml" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.zxf.entities" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\eclipse-workspace\dubboExample\common\src\main\resources" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\eclipse-workspace\dubboExample\entities\src\main\resources" />
@@ -92,8 +94,8 @@
       <recent name="D:\eclipse-workspace\dubboExample\consumers\src\test" />
       <recent name="D:\eclipse-workspace\dubboExample\entities\src\main\java\com\zxf\entities" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\eclipse-workspace\dubboExample\common\src\main\resources" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.zxf.entities" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -197,6 +199,26 @@
           <url>jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java</url>
           <line>2503</line>
           <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/idea/idea-maven-repo/org/springframework/boot/spring-boot-autoconfigure/2.0.1.RELEASE/spring-boot-autoconfigure-2.0.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/cache/SimpleCacheConfiguration.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/idea/idea-maven-repo/org/springframework/boot/spring-boot-autoconfigure/2.0.1.RELEASE/spring-boot-autoconfigure-2.0.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/cache/CacheAutoConfiguration.java</url>
+          <line>165</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/idea/idea-maven-repo/org/springframework/spring-context/5.0.5.RELEASE/spring-context-5.0.5.RELEASE-sources.jar!/org/springframework/cache/concurrent/ConcurrentMapCache.java</url>
+          <line>155</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/idea/idea-maven-repo/org/springframework/spring-context/5.0.5.RELEASE/spring-context-5.0.5.RELEASE-sources.jar!/org/springframework/cache/concurrent/ConcurrentMapCache.java</url>
+          <line>104</line>
+          <option name="timeStamp" value="42" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -25,7 +25,6 @@ public class EhcacheController {
     @GetMapping("/queryAllEmp")
     public List<Emp> queryAllEmp(){
 
-
         return ehcacheService.queryAllEmp();
     }
 }

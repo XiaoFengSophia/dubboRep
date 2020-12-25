@@ -28,7 +28,6 @@ public class EhcacheDaoImpl implements IEhcacheDAO {
 
     @Override
     public List<Emp> queryAllEmp() {
-
         String sql = "select * from emp where 1=1";
         log.info(sql);
         return jdbcTemplate.query(sql, new BeanPropertyRowMapper<>(Emp.class));
