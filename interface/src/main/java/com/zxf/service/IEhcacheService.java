@@ -11,9 +11,7 @@ import java.util.List;
  * @Description:
  * @Date: 2020/12/19 16:04
  */
-@CacheConfig(cacheNames = "empCache")
 public interface IEhcacheService {
 
-    @Cacheable
     List<Emp> queryAllEmp();
 }
