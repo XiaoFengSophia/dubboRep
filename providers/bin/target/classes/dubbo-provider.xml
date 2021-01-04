@@ -16,5 +16,6 @@
 	<dubbo:service interface="com.zxf.service.IBookService" ref="bookService"/>
     <dubbo:service interface="com.zxf.service.IEmpService" ref="empService"/>
     <dubbo:service interface="com.zxf.service.IDeptService" ref="deptService"/>
+    <dubbo:service interface="com.zxf.service.IEhcacheService" ref="ehcacheService"/>
     
 </beans>

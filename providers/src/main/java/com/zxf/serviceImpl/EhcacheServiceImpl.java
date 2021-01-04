@@ -28,4 +28,5 @@ public class EhcacheServiceImpl implements IEhcacheService {
 
         return ehcacheDAO.queryAllEmp();
     }
+
 }

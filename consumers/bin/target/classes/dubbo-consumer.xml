@@ -13,5 +13,6 @@
 	<dubbo:reference id="bookService" interface="com.zxf.service.IBookService" timeout="180000"/>
 	<dubbo:reference id="empService" interface="com.zxf.service.IEmpService" timeout="180000"/>
     <dubbo:reference id="deptService" interface="com.zxf.service.IDeptService" timeout="180000"/>
+    <dubbo:reference id="ehcacheService" interface="com.zxf.service.IEhcacheService" timeout="180000"/>
 
 </beans>
