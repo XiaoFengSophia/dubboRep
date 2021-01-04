@@ -5,6 +5,7 @@ import org.springframework.cache.annotation.CacheConfig;
 import org.springframework.cache.annotation.Cacheable;
 
 import java.util.List;
+import java.util.Map;
 
 /**
  * @Author: zhaoxiaofeng
@@ -14,4 +15,10 @@ import java.util.List;
 public interface IEhcacheService {
 
     List<Emp> queryAllEmp();
+
+    Integer updateByEmpNo(Map<String, Object> paramMap);
+
+    List<Emp> queryByEmpNo(Map<String, Object> paramMap);
+
+    Integer deleteByEmpNo(Map<String, Object> paramMap);
 }

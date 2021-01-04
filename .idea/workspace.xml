@@ -3,35 +3,16 @@
   <component name="ChangeListManager">
     <list default="true" id="68f918ba-3e2d-4911-86ed-bb34fb986f73" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/src/main/resources/dubbo.properties" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/resources/dubbo.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/target/classes/dubbo.properties" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/classes/dubbo.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumers/bin/consumers.iml" beforeDir="false" afterPath="$PROJECT_DIR$/consumers/bin/consumers.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumers/bin/src/main/resources/dubbo-consumer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/consumers/bin/src/main/resources/dubbo-consumer.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumers/bin/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumers/bin/target/classes/META-INF/maven/com.zxf/consumers/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/consumers/bin/target/classes/META-INF/maven/com.zxf/consumers/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumers/bin/target/classes/dubbo-consumer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/consumers/bin/target/classes/dubbo-consumer.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumers/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/consumers/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumers/target/classes/META-INF/maven/com.zxf/consumers/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/consumers/target/classes/META-INF/maven/com.zxf/consumers/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumers/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/consumers/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface/bin/interface.iml" beforeDir="false" afterPath="$PROJECT_DIR$/interface/bin/interface.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface/bin/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface/bin/target/classes/META-INF/maven/com.zxf/interface/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface/bin/target/classes/META-INF/maven/com.zxf/interface/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/providers/bin/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/providers/bin/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/providers/bin/providers.iml" beforeDir="false" afterPath="$PROJECT_DIR$/providers/bin/providers.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/providers/bin/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/providers/bin/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/providers/bin/src/main/resources/dubbo-provider.xml" beforeDir="false" afterPath="$PROJECT_DIR$/providers/bin/src/main/resources/dubbo-provider.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/providers/bin/target/classes/META-INF/maven/com.zxf/providers/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/providers/bin/target/classes/META-INF/maven/com.zxf/providers/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/providers/bin/target/classes/META-INF/maven/com.zxf/providers/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/providers/bin/target/classes/META-INF/maven/com.zxf/providers/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/providers/bin/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/providers/bin/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/providers/bin/target/classes/dubbo-provider.xml" beforeDir="false" afterPath="$PROJECT_DIR$/providers/bin/target/classes/dubbo-provider.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/providers/src/main/java/com/zxf/config/MyCacheConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/providers/src/main/java/com/zxf/config/MyCacheConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumers/src/main/java/com/zxf/controller/EhcacheController.java" beforeDir="false" afterPath="$PROJECT_DIR$/consumers/src/main/java/com/zxf/controller/EhcacheController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumers/target/classes/com/zxf/controller/EhcacheController.class" beforeDir="false" afterPath="$PROJECT_DIR$/consumers/target/classes/com/zxf/controller/EhcacheController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dao/src/main/java/com/zxf/IEhcacheDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/dao/src/main/java/com/zxf/IEhcacheDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dao/src/main/java/com/zxf/idao/Impl/EhcacheDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/dao/src/main/java/com/zxf/idao/Impl/EhcacheDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dao/target/classes/com/zxf/IEhcacheDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/dao/target/classes/com/zxf/IEhcacheDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dao/target/classes/com/zxf/idao/Impl/EhcacheDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/dao/target/classes/com/zxf/idao/Impl/EhcacheDaoImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/src/main/java/com/zxf/service/IEhcacheService.java" beforeDir="false" afterPath="$PROJECT_DIR$/interface/src/main/java/com/zxf/service/IEhcacheService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/target/classes/com/zxf/service/IEhcacheService.class" beforeDir="false" afterPath="$PROJECT_DIR$/interface/target/classes/com/zxf/service/IEhcacheService.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/providers/src/main/java/com/zxf/serviceImpl/EhcacheServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/providers/src/main/java/com/zxf/serviceImpl/EhcacheServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/providers/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/providers/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/providers/target/classes/META-INF/maven/com.zxf/providers/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/providers/target/classes/META-INF/maven/com.zxf/providers/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/providers/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/providers/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/providers/target/classes/com/zxf/config/MyCacheConfig$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/providers/target/classes/com/zxf/config/MyCacheConfig$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/providers/target/classes/com/zxf/config/MyCacheConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/providers/target/classes/com/zxf/config/MyCacheConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/providers/target/classes/com/zxf/serviceImpl/EhcacheServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/providers/target/classes/com/zxf/serviceImpl/EhcacheServiceImpl.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

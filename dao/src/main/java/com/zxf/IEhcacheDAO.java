@@ -3,6 +3,7 @@ package com.zxf;
 import com.zxf.entities.Emp;
 
 import java.util.List;
+import java.util.Map;
 
 /**
  * @Author: zhaoxiaofeng
@@ -11,4 +12,10 @@ import java.util.List;
  */
 public interface IEhcacheDAO {
     List<Emp> queryAllEmp();
+
+    Integer updateByEmpNo(Map<String, Object> paramMap);
+
+    List<Emp> queryByEmpNo(Map<String, Object> paramMap);
+
+    Integer deleteByEmpNo(Map<String, Object> paramMap);
 }
