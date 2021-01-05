@@ -3,16 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="68f918ba-3e2d-4911-86ed-bb34fb986f73" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumers/src/main/java/com/zxf/controller/EhcacheController.java" beforeDir="false" afterPath="$PROJECT_DIR$/consumers/src/main/java/com/zxf/controller/EhcacheController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumers/target/classes/com/zxf/controller/EhcacheController.class" beforeDir="false" afterPath="$PROJECT_DIR$/consumers/target/classes/com/zxf/controller/EhcacheController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dao/src/main/java/com/zxf/IEhcacheDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/dao/src/main/java/com/zxf/IEhcacheDAO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dao/src/main/java/com/zxf/idao/Impl/EhcacheDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/dao/src/main/java/com/zxf/idao/Impl/EhcacheDaoImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dao/target/classes/com/zxf/IEhcacheDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/dao/target/classes/com/zxf/IEhcacheDAO.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dao/target/classes/com/zxf/idao/Impl/EhcacheDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/dao/target/classes/com/zxf/idao/Impl/EhcacheDaoImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface/src/main/java/com/zxf/service/IEhcacheService.java" beforeDir="false" afterPath="$PROJECT_DIR$/interface/src/main/java/com/zxf/service/IEhcacheService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface/target/classes/com/zxf/service/IEhcacheService.class" beforeDir="false" afterPath="$PROJECT_DIR$/interface/target/classes/com/zxf/service/IEhcacheService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/providers/src/main/java/com/zxf/serviceImpl/EhcacheServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/providers/src/main/java/com/zxf/serviceImpl/EhcacheServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/providers/target/classes/com/zxf/serviceImpl/EhcacheServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/providers/target/classes/com/zxf/serviceImpl/EhcacheServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/providers/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/providers/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/providers/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/providers/target/classes/application.properties" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
