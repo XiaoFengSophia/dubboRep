@@ -3,7 +3,16 @@
   <component name="ChangeListManager">
     <list default="true" id="68f918ba-3e2d-4911-86ed-bb34fb986f73" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumers/bin/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/consumers/bin/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumers/bin/target/classes/META-INF/maven/com.zxf/consumers/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/consumers/bin/target/classes/META-INF/maven/com.zxf/consumers/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumers/bin/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/consumers/bin/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumers/target/classes/META-INF/maven/com.zxf/consumers/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/consumers/target/classes/META-INF/maven/com.zxf/consumers/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/target/classes/META-INF/maven/com.zxf/interface/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/interface/target/classes/META-INF/maven/com.zxf/interface/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/providers/bin/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/providers/bin/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/providers/bin/target/classes/META-INF/maven/com.zxf/providers/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/providers/bin/target/classes/META-INF/maven/com.zxf/providers/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/providers/bin/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/providers/bin/target/classes/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/providers/src/main/java/com/zxf/serviceImpl/EhcacheServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/providers/src/main/java/com/zxf/serviceImpl/EhcacheServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/providers/target/classes/META-INF/maven/com.zxf/providers/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/providers/target/classes/META-INF/maven/com.zxf/providers/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/providers/target/classes/com/zxf/serviceImpl/EhcacheServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/providers/target/classes/com/zxf/serviceImpl/EhcacheServiceImpl.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
