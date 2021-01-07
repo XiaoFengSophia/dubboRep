@@ -18,7 +18,7 @@ import java.util.Map;
  * @Date: 2020/12/19 16:05
  */
 @Service("ehcacheService")
-@CacheConfig(cacheNames = "empCache")
+@CacheConfig(cacheNames = "empNo")
 public class EhcacheServiceImpl implements IEhcacheService {
 
     @Autowired
@@ -31,21 +31,21 @@ public class EhcacheServiceImpl implements IEhcacheService {
     }
 
     @Override
-    @CachePut(value = {"empNo"}, key = "#paramMap.get(\"empNo\")")
+    @CachePut(/*value = {"empNo"},*/ key = "#paramMap.get(\"empNo\")")
     public Integer updateByEmpNo(Map<String, Object> paramMap) {
 
         return ehcacheDAO.updateByEmpNo(paramMap);
     }
 
     @Override
-    @Cacheable(value = {"empNo"}, keyGenerator = "myKeyGenerator")
+    @Cacheable(/*value = {"empNo"},*/ keyGenerator = "myKeyGenerator")
     public List<Emp> queryByEmpNo(Map<String, Object> paramMap) {
 
         return ehcacheDAO.queryByEmpNo(paramMap);
     }
 
     @Override
-    @CacheEvict(value = {"empNo"}, allEntries = true, keyGenerator = "myKeyGenerator")
+    @CacheEvict(/*value = {"empNo"},*/ allEntries = true, keyGenerator = "myKeyGenerator")
     public Integer deleteByEmpNo(Map<String, Object> paramMap) {
 
         return ehcacheDAO.deleteByEmpNo(paramMap);
