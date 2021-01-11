@@ -35,6 +35,7 @@ public class EhcacheDaoImpl implements IEhcacheDAO {
     @Override
     public Integer updateByEmpNo(Map<String, Object> paramMap) {
         String sql = "update emp set job = :job where empNo = :empNo";
+        
         return jdbcTemplate.update(sql, paramMap);
     }
 
